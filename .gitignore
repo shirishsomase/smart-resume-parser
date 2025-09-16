@@ -1,0 +1,13 @@
+@"
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+resume_report.json
+"@ > .gitignore
